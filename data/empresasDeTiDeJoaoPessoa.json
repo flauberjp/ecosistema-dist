@@ -1,0 +1,818 @@
+{
+    "ecosistema": "Empresas de TI de João Pessoa",
+    "empresas": [
+        {
+            "title": "Indra Brasil",
+            "location": {
+                "lat": -7.118226,
+                "lng": -34.8393658
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "https://www.indracompany.com/"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-indra/avaliacoes"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/indra/"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Conductor Tecnologia",
+            "location": {
+                "lat": -7.112255,
+                "lng": -34.8455992
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "conductor.com.br"
+                },
+                {
+                    "nome": "vagas",
+                    "url": "https://jobs.kenoby.com/conductor"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/conductor/"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-conductor-tecnologia-em-meios-de-pagamento/avaliacoes"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "PBSoft",
+            "location": {
+                "lat": -7.1213357,
+                "lng": -34.8598967
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "pbsoft.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-pbsoft-informatica-ltda/avaliacoes"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/pbsoft-tecnologia/"
+                }
+            ],
+            "caracteristicas": [
+                "java",
+                ".net"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "PublicSoft",
+            "location": {
+                "lat": -7.1231248,
+                "lng": -34.87059
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "publicsoft.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-publicsoft/avaliacoes"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/publicsoft/about/"
+                }
+            ],
+            "caracteristicas": [
+                "java",
+                "php"
+            ],
+            "revisadoEm": "17/05/2019"
+        },
+        {
+            "title": "ServiceNet",
+            "location": {
+                "lat": -7.08587,
+                "lng": -34.8424217
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "servicenet.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-servicenet-tecnologia/avaliacoes"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/servicenet---tecnologias-em-arrecada-o-e-servi-os-banc-rios/about/"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Pactomais",
+            "location": {
+                "lat": -7.14908,
+                "lng": -34.845612
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "pactomais.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-pacto-mais-tecnologia/salarios"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/pactomais/"
+                }
+                
+                
+                
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Vox Soluções Tecnológicas",
+            "location": {
+                "lat": -7.0891307,
+                "lng": -34.8431397
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "voxtecnologia.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-vox-tecnologia/avaliacoes"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/vox-tecnologia/"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Phoebus Tecnologia",
+            "location": {
+                "lat": -7.1185855,
+                "lng": -34.8428878
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "phoebus.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-phoebus-tecnologia/salarios"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/phoebus-tecnologia/about/"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Virtus Sistemas",
+            "location": {
+                "lat": -7.1355169,
+                "lng": -34.8644637
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "virtussistemas.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-virtus-sistemas/salarios"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/virtus-sistemas/about/"
+                }
+                
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Digivox",
+            "location": {
+                "lat": -7.1243714,
+                "lng": -34.8307204
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "digivox.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Elmar Tecnologia",
+            "location": {
+                "lat": -7.1184684,
+                "lng": -34.8495327
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "portalelmar.com.br"
+                }
+            ],
+            "caracteristicas": [
+                ".net",
+                "angular",
+                "delphi",
+                "membro do Extremotec"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Tribunal de Contas do Estado da Paraíba - TCE-PB",
+            "location": {
+                "lat": -7.1299394,
+                "lng": -34.8723427
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "tce.pb.gov.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-tribunal-de-contas-do-estado-da-paraiba/avaliacoes"
+                }
+                
+            ],
+            "caracteristicas": [
+                "java",
+                "scala",
+                "angular",
+                "delphi",
+                "governo"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Synctech Automação Comercial",
+            "location": {
+                "lat": -7.120709,
+                "lng": -34.862385
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "synctech.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Qualitare",
+            "location": {
+                "lat": -7.1251669,
+                "lng": -34.8431117
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "qualitare.com"
+                }
+            ],
+            "caracteristicas": [
+                "design"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Link Solutions",
+            "location": {
+                "lat": -7.1214907,
+                "lng": -34.8446315
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "linksolutions.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti",
+                "m2m"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "CODATA",
+            "location": {
+                "lat": -7.1166293,
+                "lng": -34.890565
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "codata.pb.gov.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti",
+                "governo"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "WHN HOST Web Solutions",
+            "location": {
+                "lat": -7.1220722,
+                "lng": -34.8572545
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "whnhost.com"
+                }
+            ],
+            "caracteristicas": [
+                "hospedagem de sites",
+                "VPS"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "mvarandas tecnologia",
+            "location": {
+                "lat": -7.1243296,
+                "lng": -34.8470788
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "mvarandas.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "HostDime",
+            "location": {
+                "lat": -7.1175335,
+                "lng": -34.8589555
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "hostdime.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "datacenter"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "VSoft",
+            "location": {
+                "lat": -7.1228217,
+                "lng": -34.8575157
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "vsoft.com.br"
+                }
+            ],
+            "caracteristicas": [
+                ".net"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "máximo tecnologia",
+            "location": {
+                "lat": -7.1188638,
+                "lng": -34.8441735
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "maximatecnologia.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "web",
+                "android",
+                "ios"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Kamaleon T.I",
+            "location": {
+                "lat": -7.1216017,
+                "lng": -34.8483417
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "kamaleon.com.br"
+                },
+                {
+                    "nome": "lovemondays",
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-kamaleon-ti/avaliacoes"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/kamaleon-ti/about/"
+                }
+            ],
+            "caracteristicas": [
+                "erp",
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Grupo e-Gen",
+            "location": {
+                "lat": -7.1216017,
+                "lng": -34.8483417
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "egen.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Triade",
+            "location": {
+                "lat": -7.1251669,
+                "lng": -34.8431117
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "triade.net.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Logon Informática",
+            "location": {
+                "lat": -7.1208417,
+                "lng": -34.8754738
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "portaldalogon.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "softcom tecnologia",
+            "location": {
+                "lat": -7.1187106,
+                "lng": -34.8573245
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "softcomtecnologia.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Chianca Softwares",
+            "location": {
+                "lat": -7.1210442,
+                "lng": -34.8589289
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "chianca.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Zênite Tecnologia",
+            "location": {
+                "lat": -7.1210009,
+                "lng": -34.8545368
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "zenitetecnologia.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "i9 Innovetec Tecnologia",
+            "location": {
+                "lat": -7.1183917,
+                "lng": -34.8495697
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "innovetec.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "manutenção de computadores"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Acesse Tecnologia",
+            "location": {
+                "lat": -7.0903697,
+                "lng": -34.8406037
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "acessetecnologia.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Novetech",
+            "location": {
+                "lat": -7.1188252,
+                "lng": -34.8498475
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "novetech.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Tecgeo",
+            "location": {
+                "lat": -7.1214745,
+                "lng": -34.8677524
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "novetech.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti",
+                "geoprocessamento"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Stalo Software Studio",
+            "location": {
+                "lat": -7.1287417,
+                "lng": -34.8301429
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "stalo.digital"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "e-ticons",
+            "location": {
+                "lat": -7.128822,
+                "lng": -34.8731993
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "e-ticons.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Pixelvivo - Soluções WEB",
+            "location": {
+                "lat": -7.1109213,
+                "lng": -34.8579023
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "pixelvivo.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti",
+                "web"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "SUCESU PB",
+            "location": {
+                "lat": -7.1188203,
+                "lng": -34.8443353
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "www.sucesupb.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "associação"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "FABWORK",
+            "location": {
+                "lat": -7.094506,
+                "lng": -34.841438
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "sites.google.com/fab.work/fabwork"
+                }
+            ],
+            "caracteristicas": [
+                "treinamentos",
+                "empreendedorismo",
+                "startup"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Vínculo Tecnologia",
+            "location": {
+                "lat": -7.1283789,
+                "lng": -34.8665668
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "www.vinculotecnologia.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "infolight Tecnologia",
+            "location": {
+                "lat": -7.1283789,
+                "lng": -34.8665668
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "infolight.com.br"
+                }
+            ],
+            "caracteristicas": [
+                "empresa de ti"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "fuze",
+            "location": {
+                "lat": -7.0699122,
+                "lng": -34.852114
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "fuze.cc"
+                }
+            ],
+            "caracteristicas": [
+                "android",
+                "ios",
+                "android tv"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Ludy Tecnologia",
+            "location": {
+                "lat": -7.1592187,
+                "lng": -34.8378947
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "ludy.tech"
+                }
+            ],
+            "caracteristicas": [
+                "android",
+                "ios",
+                "web"
+            ],
+            "revisadoEm": "15/05/2019"
+        }
+    ]
+}

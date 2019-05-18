@@ -1,0 +1,37 @@
+{
+    "ecosistema": "Coworking de João Pessoa",
+    "empresas": [
+        {
+            "title": "Clubejob Coworking",
+            "location": {
+                "lat": -7.1188203,
+                "lng": -34.8443353
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "clubjob.com.br"
+                }],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Tot Coworking",
+            "location": {
+                "lat": -7.1154008,
+                "lng": -34.8572032
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "coworkingbrasil.org/spaces/tot-coworking"
+                }],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "15/05/2019"
+        }
+    ]
+}

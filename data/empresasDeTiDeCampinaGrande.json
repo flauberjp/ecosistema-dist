@@ -1,0 +1,29 @@
+{
+    "ecosistema": "Empresas de TI de Campina Grande",
+    "empresas": [
+        {
+            "title": "Virtus",
+            "location": {
+                "lat": -7.2164035,
+                "lng": -35.9173179
+            },
+            "links": [{"nome":"site", "url": "virtus.ufcg.edu.br"}],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "PaqTcPB - Fundação Parque Tecnológico da Paraíba",
+            "location": {
+                "lat": -7.2093968,
+                "lng": -35.9242906
+            },
+            "links": [{"nome":"site", "url": "paqtc.org.br"}],
+            "caracteristicas": [
+                "incubadora"
+            ],
+            "revisadoEm": "15/05/2019"
+        }
+    ]
+}
