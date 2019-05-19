@@ -2,10 +2,26 @@
     "ecosistema": "Coworking de João Pessoa",
     "empresas": [
         {
-            "title": "Clubejob Coworking",
+            "title": "Clubejob Coworking - Ruy Carneiro",
             "location": {
-                "lat": -7.1188203,
+                "lat": -7.1187947,
                 "lng": -34.8443353
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "clubjob.com.br"
+                }],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Clubejob Coworking - Manaíra",
+            "location": {
+                "lat": -7.1055253,
+                "lng": -34.8313945
             },
             "links": [
                 {
@@ -32,6 +48,96 @@
                 "coworking"
             ],
             "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Coletivo CASULU coworking",
+            "location": {
+                "lat": -7.119179,
+                "lng": -34.8523936
+            },
+            "links": [
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/in/coletivo-casulu-coworking-6b7248175"
+                }
+            ],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "18/05/2019"
+        },
+        {
+            "title": "Two one one",
+            "location": {
+                "lat": -7.1185191,
+                "lng": -34.8588675
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "https://coworkingbrasil.org/spaces/two-one-one/"
+                },
+                {
+                    "nome": "facebook",
+                    "url": "https://www.facebook.com/toocoworking"
+                }
+            ],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "18/05/2019"
+        },
+        {
+            "title": "Tetris HUB",
+            "location": {
+                "lat": -7.1083747,
+                "lng": -34.8325427
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "http://tetrishub.cc/"
+                },
+                {
+                    "nome": "sympla",
+                    "url": "https://www.sympla.com.br/TetrisHUB"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/tetris-hub/about/"
+                }
+            ],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "18/05/2019"
+        },
+        {
+            "title": "Elovirtua Coworking",
+            "location": {
+                "lat": -7.1125886,
+                "lng": -34.8254667
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "http://www.elovirtua.com.br/"
+                },
+                {
+                    "nome": "instagram",
+                    "url": "https://www.instagram.com/elovirtuacoworking/"
+                },
+                {
+                    "nome": "facebook",
+                    "url": "https://www.facebook.com/elovirtuacoworking/"
+                }
+            ],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "18/05/2019"
         }
+
+        
     ]
 }
