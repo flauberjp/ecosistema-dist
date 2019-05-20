@@ -125,12 +125,19 @@
                 {
                     "nome": "linkedin",
                     "url": "https://www.linkedin.com/company/servicenet---tecnologias-em-arrecada-o-e-servi-os-banc-rios/about/"
+                },
+                {
+                    "nome": "vaga de dev full stack",
+                    "url": "img/Snet_vaga_full_stack_20190520.jpeg",
+                    "tipo": "vaga"
+
                 }
             ],
             "caracteristicas": [
-                "java"
+                "java",
+                "vaga"
             ],
-            "revisadoEm": "15/05/2019"
+            "revisadoEm": "20/05/2019"
         },
         {
             "title": "Pactomais",
@@ -213,8 +220,8 @@
         {
             "title": "Virtus Sistemas",
             "location": {
-                "lat": -7.1355169,
-                "lng": -34.8644637
+                "lat": -7.1199948,
+                "lng": -34.8757374
             },
             "links": [
                 {
