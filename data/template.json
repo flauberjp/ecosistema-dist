@@ -1,0 +1,27 @@
+{
+    "ecosistema": "<nome-descritivo-do-ecosistema>",
+    "empresas": [
+        {
+            "title": "<nome-da-empresa>",
+            "location": {
+                "lat": <latitude-da-localizacao-da-empresa-ou-da-cidade-da-empresa>,
+                "lng": <langitute-da-localizacao-da-empresa-ou-da-cidade-da-empresa>
+            },
+            "links": [
+                {
+                    "nome": "<descricaco-do-link-relativo-da-empresa>",
+                    "url": "<url-do-link>"
+                },
+                {
+                    "nome": "<descricaco-do-link-relativo-da-empresa>",
+                    "url": "<url-do-link>",
+                    "tipo": "<tipo-é-opcional-por-hora-só-o-valor-vaga-tem-tratamento-diferenciado>"
+                }
+            ],
+            "caracteristicas": [
+                "<caracteristica-da-empresa>"
+            ],
+            "revisadoEm": "<data-em-que-as-informacoes-foram-editadas>"
+        }
+    ]
+}

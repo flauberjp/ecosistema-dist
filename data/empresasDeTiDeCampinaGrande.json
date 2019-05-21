@@ -24,6 +24,31 @@
                 "incubadora"
             ],
             "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "CTIS Sonda",
+            "location": {
+                "lat": -7.250248,
+                "lng": -35.8720203
+            },
+            "links": [
+                {
+                    "nome":"site", 
+                    "url": "https://www.ctis.com.br/"
+                },
+                {
+                    "nome":"linkedin", 
+                    "url": "https://www.linkedin.com/company/ctis/about/"                 
+                },
+                {
+                    "nome":"lovemondays", 
+                    "url": "https://www.lovemondays.com.br/trabalhar-na-ctis/avaliacoes"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "21/05/2019"
         }
     ]
 }

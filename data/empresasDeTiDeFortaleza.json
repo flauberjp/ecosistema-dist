@@ -1,0 +1,38 @@
+{
+    "ecosistema": "Empresas de TI de Fortaleza",
+    "empresas": [
+        {
+            "title": "Oowlish Technology",
+            "location": {
+                "lat": -3.8492472,
+                "lng": -38.3994676
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "http://www.oowlish.com/"
+                },
+                {
+                    "nome": "linkedin",
+                    "url": "https://www.linkedin.com/company/oowlish/"
+                },
+                {
+                    "nome": "vaga Python/Django Developer",
+                    "url": "http://www.oowlish.com/2019/05/20/python-django-developer/",
+                    "tipo": "vaga"
+                },
+                {
+                    "nome": "vaga JavaScript / React / React Native Developer",
+                    "url": "http://www.oowlish.com/2019/05/20/javascript-developer/",
+                    "tipo": "vaga"
+                }
+            ],
+            "caracteristicas": [
+                "python",
+                "javascript",
+                "vaga"
+            ],
+            "revisadoEm": "21/05/2019"
+        }
+    ]
+}
