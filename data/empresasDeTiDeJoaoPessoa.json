@@ -822,6 +822,35 @@
                 "web"
             ],
             "revisadoEm": "15/05/2019"
+        },
+        {
+            "title": "Show Tecnologia",
+            "location": {
+                "lat": -7.1192217,
+                "lng": -34.8658555
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "https://showtecnologia.com/"
+                },
+                {
+                    "nome": "vaga de desenvolvedor mobile",
+                    "url": "images/ShowTecnologia_vaga_dev_mobile_20190522.jpeg",
+                    "tipo": "vaga"
+
+                }
+            ],
+            "caracteristicas": [
+                "java", 
+                "swift", 
+                "api rest", 
+                "javascript", 
+                "mysql", 
+                "mobile",
+                "vaga"
+            ],
+            "revisadoEm": "22/05/2019"
         }
     ]
 }
