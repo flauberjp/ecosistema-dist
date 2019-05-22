@@ -442,6 +442,7 @@
                 }
             ],
             "caracteristicas": [
+                "java",
                 ".net"
             ],
             "revisadoEm": "15/05/2019"
