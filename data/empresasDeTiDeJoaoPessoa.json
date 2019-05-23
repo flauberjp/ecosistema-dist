@@ -851,6 +851,58 @@
                 "vaga"
             ],
             "revisadoEm": "22/05/2019"
+        },
+        {
+            "title": "IESP Faculdades",
+            "location": {
+                "lat": -7.094572,
+                "lng": -34.8488407
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "https://www.iesp.edu.br/"
+                },
+                {
+                    "nome": "Pós-graduação MBA em Full Stack Web Development",
+                    "url": "https://www.iesp.edu.br/cursos/pos-graduacao/mba-em-full-stack-web-development"
+                },
+                {
+                    "nome": "Graduação: Sistemas de Informação",
+                    "url": "https://www.iesp.edu.br/cursos/graduacao/sistemas-de-informacao"
+                },
+                {
+                    "nome": "Graduação: Sistemas para Internet",
+                    "url": "https://www.iesp.edu.br/cursos/graduacao/sistemas-para-internet"
+                }
+
+            ],
+            "caracteristicas": [
+                "universidade",
+                "cursos ensinando java"
+            ],
+            "revisadoEm": "22/05/2019"
+        },
+        {
+            "title": "SOGO - Soluções Governamentais",
+            "location": {
+                "lat": -7.1194115,
+                "lng": -34.8684637
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "http://sogo.com.br/"
+                },
+                {
+                    "nome": "facebook",
+                    "url": "https://www.facebook.com/sogoalfa"
+                }
+            ],
+            "caracteristicas": [
+                "java"
+            ],
+            "revisadoEm": "22/05/2019"
         }
     ]
 }
