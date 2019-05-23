@@ -882,6 +882,7 @@
                 "cursos ensinando java"
             ],
             "revisadoEm": "22/05/2019"
+<<<<<<< HEAD
         },
         {
             "title": "SOGO - Soluções Governamentais",
@@ -903,6 +904,8 @@
                 "java"
             ],
             "revisadoEm": "22/05/2019"
+=======
+>>>>>>> 2240528bed754d43f49963b45b30534857c01f44
         }
     ]
 }
