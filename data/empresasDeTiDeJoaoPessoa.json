@@ -22,7 +22,9 @@
                 }
             ],
             "caracteristicas": [
-                "java"
+                 "java",
+                ".net",
+                "php"
             ],
             "revisadoEm": "15/05/2019"
         },
@@ -51,7 +53,9 @@
                 }
             ],
             "caracteristicas": [
-                "java"
+                "java",
+                ".net",
+                "angular"
             ],
             "revisadoEm": "15/05/2019"
         },
@@ -136,7 +140,8 @@
             ],
             "caracteristicas": [
                 "java",
-                "vaga"
+                "vaga",
+                "home office"
             ],
             "revisadoEm": "20/05/2019"
         },
@@ -189,7 +194,9 @@
                 }
             ],
             "caracteristicas": [
-                "java"
+                "java",
+                "php",
+                "angular",
             ],
             "revisadoEm": "15/05/2019"
         },
@@ -214,7 +221,8 @@
                 }
             ],
             "caracteristicas": [
-                "java"
+                "java",
+                "C"
             ],
             "revisadoEm": "15/05/2019"
         },
