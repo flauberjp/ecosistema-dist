@@ -136,8 +136,27 @@
                 "coworking"
             ],
             "revisadoEm": "18/05/2019"
+        },
+        {
+            "title": "newwork",
+            "location": {
+                "lat": -7.1041752,
+                "lng": -34.8471857
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "https://www.nwrk.com.br"
+                },
+                {
+                    "nome": "instagram",
+                    "url": "https://www.sympla.com.br/TetrisHUB"
+                }
+            ],
+            "caracteristicas": [
+                "coworking"
+            ],
+            "revisadoEm": "25/05/2019"
         }
-
-        
     ]
 }

@@ -133,7 +133,7 @@
                 },
                 {
                     "nome": "vaga de dev full stack",
-                    "url": "images/Snet_vaga_full_stack_20190520.jpeg",
+                    "url": "https://flauberjp.github.io/ecossistema-dist/images/Snet_vaga_full_stack_20190520.jpeg",
                     "tipo": "vaga"
 
                 }
@@ -844,7 +844,7 @@
                 },
                 {
                     "nome": "vaga de desenvolvedor mobile",
-                    "url": "images/ShowTecnologia_vaga_dev_mobile_20190522.jpeg",
+                    "url": "https://flauberjp.github.io/ecossistema-dist/images/ShowTecnologia_vaga_dev_mobile_20190522.jpeg",
                     "tipo": "vaga"
 
                 }
@@ -905,10 +905,26 @@
                 {
                     "nome": "facebook",
                     "url": "https://www.facebook.com/sogoalfa"
+                },
+                {
+                    "nome": "DESENVOLVEDOR JAVA SR (Conhecimentos sólidos)",
+                    "url": "https://flauberjp.github.io/ecossistema-dist/images/VAGAS DE EMPREGO.jpeg",
+                    "tipo": "vaga"
+                },
+                {
+                    "nome": "DESENVOLVEDOR JAVA PL (Conhecimentos sólidos)",
+                    "url": "https://flauberjp.github.io/ecossistema-dist/images/VAGAS DE EMPREGO.jpeg",
+                    "tipo": "vaga"
+                },
+                {
+                    "nome": "DESENVOLVEDOR JR",
+                    "url": "https://flauberjp.github.io/ecossistema-dist/images/VAGAS DE EMPREGO.jpeg",
+                    "tipo": "vaga"
                 }
             ],
             "caracteristicas": [
-                "java"
+                "java",
+                "vaga"
             ],
             "revisadoEm": "22/05/2019"
         }
