@@ -927,6 +927,41 @@
                 "vaga"
             ],
             "revisadoEm": "22/05/2019"
+        },
+        {
+            "title": "IFPB",
+            "location": {
+                "lat": -7.1359239,
+                "lng": -34.8741437
+            },
+            "links": [
+                {
+                    "nome": "site",
+                    "url": "https://www.ifpb.edu.br/"
+                },
+                {
+                    "nome": "Curso Superior em Tecnologia de Geoprocessamento",
+                    "url": "https://estudante.ifpb.edu.br/cursos/35"
+                },
+                {
+                    "nome": "Curso Superior em Tecnologia de Redes de Computadores",
+                    "url": "https://estudante.ifpb.edu.br/cursos/37"
+                },
+                {
+                    "nome": "Curso Superior em Tecnologia de Sistemas para Internet",
+                    "url": "https://estudante.ifpb.edu.br/cursos/39"
+                },
+                {
+                    "nome": "Curso de Mestrado Profissional em Tecnologia da Informação",
+                    "url": "https://estudante.ifpb.edu.br/cursos/195"
+                }
+
+            ],
+            "caracteristicas": [
+                "universidade",
+                "cursos ensinando java"
+            ],
+            "revisadoEm": "26/05/2019"
         }
     ]
 }
