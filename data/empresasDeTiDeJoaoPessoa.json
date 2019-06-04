@@ -656,20 +656,35 @@
         {
             "title": "Tecgeo",
             "location": {
-                "lat": -7.1214745,
-                "lng": -34.8677524
+                "lat": -7.1212916,
+                "lng": -34.8677089
             },
             "links": [
                 {
                     "nome": "site",
-                    "url": "novetech.com.br"
+                    "url": "http://www.tecnologiageo.com.br/"
+                },
+                {
+                    "nome": "vaga de Analista Desenvolvedor JAVA Junior",
+                    "url": "https://flauberjp.github.io/ecossistema-dist/images/TecGeo_analista_dev_java_jr_20190531.JPG",
+                    "tipo": "vaga"
+
+                },
+                {
+                    "nome": "vaga de Estágio – Desenvolvedor JAVA",
+                    "url": "https://flauberjp.github.io/ecossistema-dist/images/TecGeo_estagio_dev_java_20190531.JPG",
+                    "tipo": "vaga"
+
                 }
             ],
             "caracteristicas": [
                 "empresa de ti",
-                "geoprocessamento"
+                "geoprocessamento", 
+                "java",
+                "vaga"
+
             ],
-            "revisadoEm": "15/05/2019"
+            "revisadoEm": "04/06/2019"
         },
         {
             "title": "Stalo Software Studio",
